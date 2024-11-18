@@ -1,0 +1,28 @@
+given the radius of a circle, find the area and perimeter 
+swap 2 numbers
+largest of 3 numbers
+perform basic arithmetic operations, (add, diff, mul, div) read 2 numbers from the user, display the menu of operations available. read the choice from the user, perform the chosen operation.
+display the first n multiples of a given number.
+find the sum of first 100 even numbers
+find the factorial of a number
+find the number of digits in a given number
+check whether leap year or not
+find the roots of a quadratic equation
+GCD of 2 numbers
+Exchange first and last characters in a string
+Factorial using function
+Fibonacci series in a string
+Add 'ing' at the end of a string. If already ends with ing add 'ly'
+Display pyramid with step number form the user
+Construct the pattern using nested loop
+Create a single string from two strings, swapping the character at position 1
+
+
+format: 
+TITLE
+AIM
+ALGORITHM
+step by step
+PROGRAM 
+OUTPUT
+RESULT
