@@ -12,6 +12,7 @@ GCD of 2 numbers
 Exchange first and last characters in a string
 Factorial using function
 Fibonacci series in a string
+Character frequency of a string
 Add 'ing' at the end of a string. If already ends with ing add 'ly'
 Display pyramid with step number form the user
 Construct the pattern using nested loop
