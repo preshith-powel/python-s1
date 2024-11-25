@@ -17,7 +17,15 @@ Add 'ing' at the end of a string. If already ends with ing add 'ly'
 Display pyramid with step number form the user
 Construct the pattern using nested loop
 Create a single string from two strings, swapping the character at position 1
-
+Display first and last colors from a list of comma seperated color names
+Sort dictionary(ascending and descending)
+Merge two dictionaries
+From a list create a list removing all even numbers
+Create a Bank account with members account number name, type of account and balance. Write constructor and methods to deposit at the bank and withdraw an amount from the bank.
+Create rectangle class with attributes length and width and methods to find area and perimeter.compare two rectangle objects by their area
+create a class rectangle with private attributes length and breadth. Overload < operator to compare the area of two rectangles
+Create a class time with private attributes hour minute and seconds. overload + operator to find sum of two times.
+Create a class publisher(name) derive class bookfrom publisher with attributes title and author. Derive class python from book with attributes price and number of pages,Write a program that displays info about a python book/. Use base class constructor invocation and method overriding
 
 format: 
 TITLE
