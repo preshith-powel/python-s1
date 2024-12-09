@@ -26,6 +26,8 @@ Create rectangle class with attributes length and width and methods to find area
 Create a class rectangle with private attributes length and breadth. Overload < operator to compare the area of two rectangles
 Create a class time with private attributes hour minute and seconds. overload + operator to find sum of two times.
 Create a class publisher(name) derive class book from publisher with attributes title and author. Derive class python from book with attributes price and number of pages,Write a program that displays info about a python book/. Use base class constructor invocation and method overriding
+Create a package graphics with modules rectangle, circle and subpackage 3D graphics with modules cuboid and sphere. include methods to find area and perimetere of respective figures in each module. Write programs that find area and perimeter of figures by different importing statements(include selective import of modules and import * statements).
+
 
 format: 
 TITLE
