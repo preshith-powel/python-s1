@@ -1,4 +1,6 @@
 string=input("Enter the string: ").lower()
+string=string.strip()
+string=string.replace(" ","")
 string2=set(string)
 
 for char in string2 :
